@@ -1,0 +1,23 @@
+{
+  "name": "anagrams",
+  "version": "1.0.0",
+  "description": "HTML5 powered anagram searcher",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "anagram",
+    "search",
+    "dictionaries"
+  ],
+  "author": "June Crane",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "rollup-stream": "^1.24.1",
+    "typescript": "^2.9.2",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
